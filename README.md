@@ -37,7 +37,7 @@ graph TD
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/NeuroBlock.git](https://github.com/yourusername/NeuroBlock.git)
+    git clone [https://github.com/Manish9250/NeuroBlock.git](https://github.com/yourusername/NeuroBlock.git)
     cd NeuroBlock
     ```
 
